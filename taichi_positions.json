@@ -1,0 +1,182 @@
+{
+  "Wave_hands_like_clouds": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Flexion/extension épaules",
+      "Rotation tronc",
+      "Flexion/extension genoux"
+    ],
+    "tendons": [
+      {"nom": "Tendons lombaires", "ponderation": 0.7},
+      {"nom": "Tendons épaules", "ponderation": 0.9}
+    ],
+    "zones_mobilisées": [
+      "bras",
+      "épaules",
+      "dos",
+      "tronc",
+      "jambes",
+      "hanches",
+      "équilibre"
+    ],
+    "référence": {
+      "image": "https://commons.wikimedia.org/wiki/File:Wave_hands_like_clouds.png",
+      "videos": ["https://www.youtube.com/watch?v=wBf_0qDzr9g"]
+    },
+    "explication": "Mobilise épaules, tronc et jambes avec rotation fluide, améliore équilibre et coordination."
+  },
+
+  "Golden_Rooster_stands_on_one_leg": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Flexion/extension genoux",
+      "Abduction/adduction hanches",
+      "Rotation tronc"
+    ],
+    "tendons": [
+      {"nom": "Tendons chevilles", "ponderation": 0.9},
+      {"nom": "Tendons fessiers", "ponderation": 0.8},
+      {"nom": "Tendons lombaires", "ponderation": 0.7}
+    ],
+    "zones_mobilisées": [
+      "jambes",
+      "hanches",
+      "tronc",
+      "chevilles",
+      "équilibre"
+    ],
+    "référence": {
+      "image": "https://commons.wikimedia.org/wiki/File:Golden_rooster_pose.png",
+      "videos": ["https://www.youtube.com/watch?v=8P_R-RjP8s8"]
+    },
+    "explication": "Développe équilibre unipodal, tonifie jambes et tronc, stabilise chevilles."
+  },
+
+  "Push_hands": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Flexion/extension épaules",
+      "Rotation tronc",
+      "Flexion genoux"
+    ],
+    "tendons": [
+      {"nom": "Tendons épaules", "ponderation": 0.9},
+      {"nom": "Tendons lombaires", "ponderation": 0.8}
+    ],
+    "zones_mobilisées": [
+      "bras",
+      "épaules",
+      "tronc",
+      "jambes",
+      "hanches",
+      "équilibre"
+    ],
+    "référence": {
+      "image": "https://commons.wikimedia.org/wiki/File:Push_hands.png",
+      "videos": ["https://www.youtube.com/watch?v=U5YzVw0xVys"]
+    },
+    "explication": "Renforce mobilité des épaules, puissance du tronc et stabilité dynamique."
+  },
+
+  "Repulse_monkey": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Flexion/extension hanches",
+      "Rotation tronc",
+      "Flexion/extension genoux"
+    ],
+    "tendons": [
+      {"nom": "Tendons lombaires", "ponderation": 0.8},
+      {"nom": "Tendons fessiers", "ponderation": 0.8}
+    ],
+    "zones_mobilisées": [
+      "tronc",
+      "jambes",
+      "hanches",
+      "dos",
+      "équilibre"
+    ],
+    "référence": {
+      "image": "https://commons.wikimedia.org/wiki/File:Repulse_monkey.png",
+      "videos": ["https://www.youtube.com/watch?v=c6K9gFOblsM"]
+    },
+    "explication": "Travail coordonné arrière, renforce hanches, jambes et stabilisateurs du tronc."
+  },
+
+  "Commencement": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Élévation douce des épaules",
+      "Flexion légère genoux",
+      "Relâchement hanches"
+    ],
+    "tendons": [
+      {"nom": "Tendons épaules", "ponderation": 0.5},
+      {"nom": "Tendons lombaires", "ponderation": 0.5}
+    ],
+    "zones_mobilisées": [
+      "bras",
+      "épaules",
+      "tronc",
+      "jambes",
+      "respiration",
+      "équilibre"
+    ],
+    "référence": {
+      "article": "https://en.wikipedia.org/wiki/Tai_chi"
+    },
+    "explication": "Prépare respiration, alignement et posture, engagement global minimal."
+  },
+
+  "Saisir_la_queue_de_l_oiseau": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Abduction épaule",
+      "Rotation tronc",
+      "Flexion hanches"
+    ],
+    "tendons": [
+      {"nom": "Tendons épaules", "ponderation": 0.7},
+      {"nom": "Tendons dorsaux", "ponderation": 0.8}
+    ],
+    "zones_mobilisées": [
+      "bras",
+      "épaules",
+      "dos",
+      "tronc",
+      "jambes",
+      "hanches",
+      "équilibre"
+    ],
+    "référence": {
+      "article": "https://en.wikipedia.org/wiki/Tai_chi"
+    },
+    "explication": "Séquence complète combinant poussée, retrait et rotation du tronc."
+  },
+
+  "Simple_fouet": {
+    "activité": "Taichi",
+    "mouvements_articulaires": [
+      "Abduction épaule large",
+      "Flexion hanches",
+      "Rotation tronc"
+    ],
+    "tendons": [
+      {"nom": "Tendons deltoïdes", "ponderation": 0.8},
+      {"nom": "Tendons lombaires", "ponderation": 0.7}
+    ],
+    "zones_mobilisées": [
+      "bras",
+      "épaules",
+      "dos",
+      "tronc",
+      "jambes",
+      "hanches",
+      "équilibre"
+    ],
+    "référence": {
+      "article": "https://en.wikipedia.org/wiki/Single_whip_(tai_chi)"
+    },
+    "explication": "Grand mouvement circulaire du bras avec forte stabilisation du tronc."
+  }
+}

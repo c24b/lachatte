@@ -1,0 +1,37 @@
+{
+  "Pigeon_stretch": {
+    "mouvements_articulaires":["Flexion/extension hanches","Rotation tronc"],
+    "tendons":[{"nom":"Tendons fessiers","ponderation":0.9},{"nom":"Tendons adducteurs","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Fessiers","ponderation":1.0},{"nom":"Hanches","ponderation":0.8},{"nom":"Tronc","ponderation":0.6}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Pigeon_pose_stretch.png","videos":["https://www.youtube.com/watch?v=UlQ0tvZjO5o"]},
+    "explication":"Étire les fessiers et les adducteurs, soulage tension lombaire."
+  },
+  "Cat_cow": {
+    "mouvements_articulaires":["Flexion/extension tronc","Flexion/extension cervicale"],
+    "tendons":[{"nom":"Tendons lombaires","ponderation":1.0},{"nom":"Tendons cervicaux","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Tronc","ponderation":1.0},{"nom":"Cou","ponderation":0.8}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Cat_cow_stretch.png","videos":["https://www.youtube.com/watch?v=kqnua4rHVVA"]},
+    "explication":"Relâche et mobilise le tronc et le cou après effort."
+  },
+  "Quadriceps_stretch": {
+    "mouvements_articulaires":["Flexion genoux","Extension hanches"],
+    "tendons":[{"nom":"Tendons quadriceps","ponderation":1.0}],
+    "zones_mobilisées":[{"nom":"Quadriceps","ponderation":1.0},{"nom":"Hanches","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Quadriceps_stretch.png","videos":["https://www.youtube.com/watch?v=9Rnz-UMdb_U"]},
+    "explication":"Étire les quadriceps et stabilise la hanche."
+  },
+  "Hamstring_stretch": {
+    "mouvements_articulaires":["Flexion hanches","Extension genoux"],
+    "tendons":[{"nom":"Tendons ischio-jambiers","ponderation":1.0}],
+    "zones_mobilisées":[{"nom":"Ischio-jambiers","ponderation":1.0},{"nom":"Tronc","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Hamstring_stretch.png","videos":["https://www.youtube.com/watch?v=2L2lnxIcNmo"]},
+    "explication":"Étire les ischio-jambiers et relâche tension lombaire."
+  },
+  "Triceps_stretch": {
+    "mouvements_articulaires":["Extension bras","Flexion épaule"],
+    "tendons":[{"nom":"Tendons triceps","ponderation":1.0},{"nom":"Tendons épaules","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Bras","ponderation":1.0},{"nom":"Épaules","ponderation":0.8}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Triceps_stretch.png","videos":["https://www.youtube.com/watch?v=QpYce0jv-2A"]},
+    "explication":"Relâche les triceps et les épaules après effort prolongé."
+  }
+}

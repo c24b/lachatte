@@ -1,0 +1,44 @@
+{
+  "Cobra": {
+    "mouvements_articulaires":["Extension tronc","Extension cervicale","Flexion genoux"],
+    "tendons":[{"nom":"Tendons lombaires","ponderation":1.0},{"nom":"Tendons cervicaux","ponderation":0.9}],
+    "zones_mobilisées":[{"nom":"Tronc","ponderation":1.0},{"nom":"Cou","ponderation":0.9},{"nom":"Épaules","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Cobra_pose.png","videos":["https://www.youtube.com/watch?v=1EBqT74w6qc"]},
+    "explication":"Étire et renforce le tronc, les lombaires et le cou."
+  },
+  "Downward_Dog": {
+    "mouvements_articulaires":["Flexion des hanches","Extension des épaules","Extension du tronc","Flexion des genoux"],
+    "tendons":[{"nom":"Tendons ischio-jambiers","ponderation":0.9},{"nom":"Tendons lombaires","ponderation":0.8},{"nom":"Tendons épaules","ponderation":0.7}],
+    "zones_mobilisées":[{"nom":"Épaules","ponderation":0.8},{"nom":"Tronc","ponderation":0.7},{"nom":"Ischio-jambiers","ponderation":0.9},{"nom":"Mollets","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Downward_dog_pose.png","videos":["https://www.youtube.com/watch?v=0FxG2hQECv4"]},
+    "explication":"Étire l’arrière des jambes, renforce le tronc et les épaules."
+  },
+  "Warrior_I": {
+    "mouvements_articulaires":["Flexion genou avant","Extension genou arrière","Abduction/adduction hanches","Rotation tronc"],
+    "tendons":[{"nom":"Tendons quadriceps","ponderation":1.0},{"nom":"Tendons fessiers","ponderation":0.8},{"nom":"Tendons lombaires","ponderation":0.7}],
+    "zones_mobilisées":[{"nom":"Quadriceps","ponderation":1.0},{"nom":"Fessiers","ponderation":0.8},{"nom":"Hanches","ponderation":0.7},{"nom":"Tronc","ponderation":0.6}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Warrior_I_pose.png","videos":["https://www.youtube.com/watch?v=8QjxjJ8Rjrk"]},
+    "explication":"Renforce les jambes et le tronc, améliore la stabilité."
+  },
+  "Warrior_II": {
+    "mouvements_articulaires":["Flexion/extension genoux","Abduction/adduction hanches","Rotation tronc"],
+    "tendons":[{"nom":"Tendons quadriceps","ponderation":0.9},{"nom":"Tendons fessiers","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Quadriceps","ponderation":1.0},{"nom":"Fessiers","ponderation":0.8},{"nom":"Hanches","ponderation":0.7},{"nom":"Tronc","ponderation":0.6}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Warrior_II_pose.png","videos":["https://www.youtube.com/watch?v=fZbzXkZvw6g"]},
+    "explication":"Renforce les jambes, mobilise les hanches et stabilise le tronc."
+  },
+  "Triangle": {
+    "mouvements_articulaires":["Flexion latérale tronc","Abduction/adduction hanches","Rotation tronc"],
+    "tendons":[{"nom":"Tendons lombaires","ponderation":0.9},{"nom":"Tendons abducteurs","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Tronc","ponderation":0.9},{"nom":"Hanches","ponderation":0.8},{"nom":"Épaules","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Triangle_pose.png","videos":["https://www.youtube.com/watch?v=JcPm3Y1jV4s"]},
+    "explication":"Étire les flancs, renforce la stabilité et l’ouverture des hanches."
+  },
+  "Tree": {
+    "mouvements_articulaires":["Abduction/adduction hanches","Flexion genou","Rotation tronc"],
+    "tendons":[{"nom":"Tendons chevilles","ponderation":0.9},{"nom":"Tendons fessiers","ponderation":0.8}],
+    "zones_mobilisées":[{"nom":"Chevilles","ponderation":0.9},{"nom":"Fessiers","ponderation":0.8},{"nom":"Tronc","ponderation":0.7}],
+    "référence":{"image":"https://commons.wikimedia.org/wiki/File:Tree_pose.png","videos":["https://www.youtube.com/watch?v=GxgOZtRLhHE"]},
+    "explication":"Améliore l’équilibre, renforce les chevilles et stabilise le tronc."
+  }
+}
