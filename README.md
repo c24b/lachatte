@@ -13,12 +13,17 @@ A chaque repas: proposer un programme de position sexuelles et un plan sportif p
 combinaisons de positions
 ## TO DO
 
-- 4 fichiers aux propres. S'assurer que les données soient croisables.
+- 4 fichiers aux propres. S'assurer que les données soient croisables. Typiquement normalisation des "mouvements_articulaires":
+"tendons"
+"zones_mobilisées"
++ ajout de pondération
 - Script de caclul de dépense énergétique
 - Retour de zones du corps mobilisées avec pondération
 - Recommandation de mouvements d'étirements
 - Suggestion de postures de Yoga de mouvements de Taichi
 
+## BUGS
+Les 12 positions sont classés par combinaisons de genre il faudrait ajouter genre comme filtre et actif/passif comme role et filtre additionnels
 
 
 ## NICE TO HAVE
@@ -26,6 +31,8 @@ combinaisons de positions
 - Ajouter les recommandations alimentaires en fonction des kilocalories à récupérer 
 - Prendre en compte le genre des participants
 - Prendre en compte le nombre de participants
+- Prendre en compte le role actif/passif mais mettre en place une pondération et specifier pour chaque partenaire les zones mobilisées
 
 
-
+## WTF
+Ajouter une "méthode kilomètre de bite"
