@@ -1,0 +1,471 @@
+[
+  {
+    "aliment": "Amande",
+    "kcal_per_100g": 579.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 173.7
+  },
+  {
+    "aliment": "Noix de cajou",
+    "kcal_per_100g": 553.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 165.9
+  },
+  {
+    "aliment": "Noix",
+    "kcal_per_100g": 654.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 196.2
+  },
+  {
+    "aliment": "Pistaches",
+    "kcal_per_100g": 562.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 168.6
+  },
+  {
+    "aliment": "Cacahuètes",
+    "kcal_per_100g": 567.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 170.1
+  },
+  {
+    "aliment": "Beurre",
+    "kcal_per_100g": 717.0,
+    "portion_g": 10,
+    "portion_raw": "10",
+    "kcal_per_portion": 71.7
+  },
+  {
+    "aliment": "Fromage (moyenne)",
+    "kcal_per_100g": 402.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 120.6
+  },
+  {
+    "aliment": "Yaourt nature",
+    "kcal_per_100g": 61.0,
+    "portion_g": 125,
+    "portion_raw": "125",
+    "kcal_per_portion": 76.25
+  },
+  {
+    "aliment": "Lait entier",
+    "kcal_per_100g": 61.0,
+    "portion_g": 200,
+    "portion_raw": "200",
+    "kcal_per_portion": 122.0
+  },
+  {
+    "aliment": "Lait demi-écrémé",
+    "kcal_per_100g": 48.0,
+    "portion_g": 200,
+    "portion_raw": "200",
+    "kcal_per_portion": 96.0
+  },
+  {
+    "aliment": "Lait écrémé",
+    "kcal_per_100g": 34.0,
+    "portion_g": 200,
+    "portion_raw": "200",
+    "kcal_per_portion": 68.0
+  },
+  {
+    "aliment": "Poulet cuit",
+    "kcal_per_100g": 165.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 198.0
+  },
+  {
+    "aliment": "Dinde cuite",
+    "kcal_per_100g": 135.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 162.0
+  },
+  {
+    "aliment": "Bœuf steak 10%",
+    "kcal_per_100g": 217.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 325.5
+  },
+  {
+    "aliment": "Porc cuit",
+    "kcal_per_100g": 242.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 363.0
+  },
+  {
+    "aliment": "Poisson blanc",
+    "kcal_per_100g": 90.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 108.0
+  },
+  {
+    "aliment": "Saumon",
+    "kcal_per_100g": 208.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 249.6
+  },
+  {
+    "aliment": "Thon",
+    "kcal_per_100g": 132.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 158.4
+  },
+  {
+    "aliment": "Œufs",
+    "kcal_per_100g": 143.0,
+    "portion_g": 50,
+    "portion_raw": "50 (1 œuf)",
+    "kcal_per_portion": 71.5
+  },
+  {
+    "aliment": "Tofu ferme",
+    "kcal_per_100g": 76.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 76.0
+  },
+  {
+    "aliment": "Tofu soyeux",
+    "kcal_per_100g": 55.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 55.0
+  },
+  {
+    "aliment": "Lentilles cuites",
+    "kcal_per_100g": 116.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 174.0
+  },
+  {
+    "aliment": "Pois chiches cuits",
+    "kcal_per_100g": 164.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 246.0
+  },
+  {
+    "aliment": "Haricots rouges cuits",
+    "kcal_per_100g": 127.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 190.5
+  },
+  {
+    "aliment": "Riz blanc cuit",
+    "kcal_per_100g": 130.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 195.0
+  },
+  {
+    "aliment": "Riz complet cuit",
+    "kcal_per_100g": 111.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 166.5
+  },
+  {
+    "aliment": "Quinoa cuit",
+    "kcal_per_100g": 120.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 180.0
+  },
+  {
+    "aliment": "Pâtes cuites",
+    "kcal_per_100g": 131.0,
+    "portion_g": 180,
+    "portion_raw": "180",
+    "kcal_per_portion": 235.8
+  },
+  {
+    "aliment": "Pain blanc",
+    "kcal_per_100g": 265.0,
+    "portion_g": 40,
+    "portion_raw": "40 (1 tranche)",
+    "kcal_per_portion": 106.0
+  },
+  {
+    "aliment": "Pain complet",
+    "kcal_per_100g": 247.0,
+    "portion_g": 40,
+    "portion_raw": "40",
+    "kcal_per_portion": 98.8
+  },
+  {
+    "aliment": "Pomme de terre cuite",
+    "kcal_per_100g": 87.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 130.5
+  },
+  {
+    "aliment": "Patate douce cuite",
+    "kcal_per_100g": 86.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 129.0
+  },
+  {
+    "aliment": "Avoine",
+    "kcal_per_100g": 389.0,
+    "portion_g": 40,
+    "portion_raw": "40",
+    "kcal_per_portion": 155.6
+  },
+  {
+    "aliment": "Banane",
+    "kcal_per_100g": 89.0,
+    "portion_g": 120,
+    "portion_raw": "120 (1 banane)",
+    "kcal_per_portion": 106.8
+  },
+  {
+    "aliment": "Pomme",
+    "kcal_per_100g": 52.0,
+    "portion_g": 140,
+    "portion_raw": "140",
+    "kcal_per_portion": 72.8
+  },
+  {
+    "aliment": "Poire",
+    "kcal_per_100g": 57.0,
+    "portion_g": 160,
+    "portion_raw": "160",
+    "kcal_per_portion": 91.2
+  },
+  {
+    "aliment": "Raisins",
+    "kcal_per_100g": 69.0,
+    "portion_g": 80,
+    "portion_raw": "80",
+    "kcal_per_portion": 55.2
+  },
+  {
+    "aliment": "Fraises",
+    "kcal_per_100g": 32.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 32.0
+  },
+  {
+    "aliment": "Myrtilles",
+    "kcal_per_100g": 57.0,
+    "portion_g": 80,
+    "portion_raw": "80",
+    "kcal_per_portion": 45.6
+  },
+  {
+    "aliment": "Avocat",
+    "kcal_per_100g": 160.0,
+    "portion_g": 150,
+    "portion_raw": "150",
+    "kcal_per_portion": 240.0
+  },
+  {
+    "aliment": "Brocoli cuit",
+    "kcal_per_100g": 55.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 55.0
+  },
+  {
+    "aliment": "Carottes crues",
+    "kcal_per_100g": 41.0,
+    "portion_g": 80,
+    "portion_raw": "80",
+    "kcal_per_portion": 32.8
+  },
+  {
+    "aliment": "Pois",
+    "kcal_per_100g": 81.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 81.0
+  },
+  {
+    "aliment": "Maïs cuit",
+    "kcal_per_100g": 96.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 96.0
+  },
+  {
+    "aliment": "Huile d’olive",
+    "kcal_per_100g": 884.0,
+    "portion_g": 10,
+    "portion_raw": "10 (1 c. à soupe)",
+    "kcal_per_portion": 88.4
+  },
+  {
+    "aliment": "Huile de colza",
+    "kcal_per_100g": 884.0,
+    "portion_g": 10,
+    "portion_raw": "10",
+    "kcal_per_portion": 88.4
+  },
+  {
+    "aliment": "Chocolat noir 70%",
+    "kcal_per_100g": 598.0,
+    "portion_g": 20,
+    "portion_raw": "20",
+    "kcal_per_portion": 119.6
+  },
+  {
+    "aliment": "Miel",
+    "kcal_per_100g": 304.0,
+    "portion_g": 15,
+    "portion_raw": "15",
+    "kcal_per_portion": 45.6
+  },
+  {
+    "aliment": "Sucre",
+    "kcal_per_100g": 387.0,
+    "portion_g": 10,
+    "portion_raw": "10",
+    "kcal_per_portion": 38.7
+  },
+  {
+    "aliment": "Jus d’orange",
+    "kcal_per_100g": 45.0,
+    "portion_g": 200,
+    "portion_raw": "200",
+    "kcal_per_portion": 90.0
+  },
+  {
+    "aliment": "Soda",
+    "kcal_per_100g": 41.0,
+    "portion_g": 330,
+    "portion_raw": "330",
+    "kcal_per_portion": 135.3
+  },
+  {
+    "aliment": "**Pizza** (moyenne)",
+    "kcal_per_100g": 266.0,
+    "portion_g": 140,
+    "portion_raw": "140 (1 part)",
+    "kcal_per_portion": 372.4
+  },
+  {
+    "aliment": "**Frites**",
+    "kcal_per_100g": 312.0,
+    "portion_g": 120,
+    "portion_raw": "120",
+    "kcal_per_portion": 374.4
+  },
+  {
+    "aliment": "**Chips**",
+    "kcal_per_100g": 536.0,
+    "portion_g": 30,
+    "portion_raw": "30",
+    "kcal_per_portion": 160.8
+  },
+  {
+    "aliment": "**Hamburger**",
+    "kcal_per_100g": 295.0,
+    "portion_g": 180,
+    "portion_raw": "180",
+    "kcal_per_portion": 531.0
+  },
+  {
+    "aliment": "**Cheeseburger**",
+    "kcal_per_100g": 310.0,
+    "portion_g": 180,
+    "portion_raw": "180",
+    "kcal_per_portion": 558.0
+  },
+  {
+    "aliment": "**Sushi maki**",
+    "kcal_per_100g": 150.0,
+    "portion_g": 20,
+    "portion_raw": "20 (1 pièce)",
+    "kcal_per_portion": 30.0
+  },
+  {
+    "aliment": "**Sushi nigiri**",
+    "kcal_per_100g": 120.0,
+    "portion_g": 25,
+    "portion_raw": "25 (1 pièce)",
+    "kcal_per_portion": 30.0
+  },
+  {
+    "aliment": "**Sashimi**",
+    "kcal_per_100g": 130.0,
+    "portion_g": 30,
+    "portion_raw": "30 (1 tranche)",
+    "kcal_per_portion": 39.0
+  },
+  {
+    "aliment": "**Brochette de poulet**",
+    "kcal_per_100g": 170.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 170.0
+  },
+  {
+    "aliment": "**Brochette de bœuf**",
+    "kcal_per_100g": 210.0,
+    "portion_g": 100,
+    "portion_raw": "100",
+    "kcal_per_portion": 210.0
+  },
+  {
+    "aliment": "**Brochette japonaise (yakitori)**",
+    "kcal_per_100g": 170.0,
+    "portion_g": 90,
+    "portion_raw": "90",
+    "kcal_per_portion": 153.0
+  },
+  {
+    "aliment": "**Kebab (sandwich complet)**",
+    "kcal_per_100g": 715.0,
+    "portion_g": 350,
+    "portion_raw": "350",
+    "kcal_per_portion": 2502.5
+  },
+  {
+    "aliment": "**Tacos français**",
+    "kcal_per_100g": 850.0,
+    "portion_g": 400,
+    "portion_raw": "400",
+    "kcal_per_portion": 3400.0
+  },
+  {
+    "aliment": "**Nuggets**",
+    "kcal_per_100g": 290.0,
+    "portion_g": 20,
+    "portion_raw": "20 (1 pièce)",
+    "kcal_per_portion": 58.0
+  },
+  {
+    "aliment": "**Salade composée**",
+    "kcal_per_100g": 120.0,
+    "portion_g": 200,
+    "portion_raw": "200",
+    "kcal_per_portion": 240.0
+  },
+  {
+    "aliment": "**Wrap**",
+    "kcal_per_100g": 250.0,
+    "portion_g": 180,
+    "portion_raw": "180",
+    "kcal_per_portion": 450.0
+  }
+]
