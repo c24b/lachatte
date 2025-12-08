@@ -357,112 +357,112 @@
     "kcal_per_portion": 135.3
   },
   {
-    "aliment": "**Pizza** (moyenne)",
+    "aliment": "Pizza (moyenne)",
     "kcal_per_100g": 266.0,
     "portion_g": 140,
     "portion_raw": "140 (1 part)",
     "kcal_per_portion": 372.4
   },
   {
-    "aliment": "**Frites**",
+    "aliment": "Frites",
     "kcal_per_100g": 312.0,
     "portion_g": 120,
     "portion_raw": "120",
     "kcal_per_portion": 374.4
   },
   {
-    "aliment": "**Chips**",
+    "aliment": "Chips",
     "kcal_per_100g": 536.0,
     "portion_g": 30,
     "portion_raw": "30",
     "kcal_per_portion": 160.8
   },
   {
-    "aliment": "**Hamburger**",
+    "aliment": "Hamburger",
     "kcal_per_100g": 295.0,
     "portion_g": 180,
     "portion_raw": "180",
     "kcal_per_portion": 531.0
   },
   {
-    "aliment": "**Cheeseburger**",
+    "aliment": "Cheeseburger",
     "kcal_per_100g": 310.0,
     "portion_g": 180,
     "portion_raw": "180",
     "kcal_per_portion": 558.0
   },
   {
-    "aliment": "**Sushi maki**",
+    "aliment": "Sushi maki",
     "kcal_per_100g": 150.0,
     "portion_g": 20,
     "portion_raw": "20 (1 pièce)",
     "kcal_per_portion": 30.0
   },
   {
-    "aliment": "**Sushi nigiri**",
+    "aliment": "Sushi nigiri",
     "kcal_per_100g": 120.0,
     "portion_g": 25,
     "portion_raw": "25 (1 pièce)",
     "kcal_per_portion": 30.0
   },
   {
-    "aliment": "**Sashimi**",
+    "aliment": "Sashimi",
     "kcal_per_100g": 130.0,
     "portion_g": 30,
     "portion_raw": "30 (1 tranche)",
     "kcal_per_portion": 39.0
   },
   {
-    "aliment": "**Brochette de poulet**",
+    "aliment": "Brochette de poulet",
     "kcal_per_100g": 170.0,
     "portion_g": 100,
     "portion_raw": "100",
     "kcal_per_portion": 170.0
   },
   {
-    "aliment": "**Brochette de bœuf**",
+    "aliment": "Brochette de bœuf",
     "kcal_per_100g": 210.0,
     "portion_g": 100,
     "portion_raw": "100",
     "kcal_per_portion": 210.0
   },
   {
-    "aliment": "**Brochette japonaise (yakitori)**",
+    "aliment": "Brochette japonaise (yakitori)",
     "kcal_per_100g": 170.0,
     "portion_g": 90,
     "portion_raw": "90",
     "kcal_per_portion": 153.0
   },
   {
-    "aliment": "**Kebab (sandwich complet)**",
+    "aliment": "Kebab (sandwich complet)",
     "kcal_per_100g": 715.0,
     "portion_g": 350,
     "portion_raw": "350",
     "kcal_per_portion": 2502.5
   },
   {
-    "aliment": "**Tacos français**",
+    "aliment": "Tacos français",
     "kcal_per_100g": 850.0,
     "portion_g": 400,
     "portion_raw": "400",
     "kcal_per_portion": 3400.0
   },
   {
-    "aliment": "**Nuggets**",
+    "aliment": "Nuggets",
     "kcal_per_100g": 290.0,
     "portion_g": 20,
     "portion_raw": "20 (1 pièce)",
     "kcal_per_portion": 58.0
   },
   {
-    "aliment": "**Salade composée**",
+    "aliment": "Salade composée",
     "kcal_per_100g": 120.0,
     "portion_g": 200,
     "portion_raw": "200",
     "kcal_per_portion": 240.0
   },
   {
-    "aliment": "**Wrap**",
+    "aliment": "Wrap",
     "kcal_per_100g": 250.0,
     "portion_g": 180,
     "portion_raw": "180",
